@@ -1,0 +1,18 @@
+# VSCode Settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Output Directories
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Pp]ublish/
+
+# OS Files
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
