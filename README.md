@@ -11,5 +11,6 @@ Install [.NET Core 2.0](https://www.microsoft.com/net/learn/get-started/) on you
 
 ## Running the examples
 * Clone this repository locally.
+* Restore the required packages by running `dotnet restore` from the CLI at the repository root.
 * Copy the code at the bottom of each example into `Program.Main(string[] args)`.
 * From a CLI at the repository root, run `dotnet run [phrase]`. E.g. `dotnet run here kitty kitty` should output **'here kitty kitty' is a meme.**
