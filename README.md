@@ -1,4 +1,4 @@
-#ScientistConsoleApp
+# ScientistConsoleApp
 
 This is a (very contrived) example application to show the basics of how to use [Scientist.Net](https://github.com/github/Scientist.net).
 
